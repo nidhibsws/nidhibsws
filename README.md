@@ -1,5 +1,5 @@
 ### Hi there 👋
-play my most favourite mini game!👾--> https://www.cs.ryerson.ca/~n6biswas/lab05.html
+
 <!--
 **nidhibsws/nidhibsws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 Inbox me @ https://www.linkedin.com/in/nidhibiswas/ 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to design cool stuffs! 
+-
+Thankyou for visiting! don't forget to play my mini game before you go ^-^ 👾. --> https://www.cs.ryerson.ca/~n6biswas/lab05.html
