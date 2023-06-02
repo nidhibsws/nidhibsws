@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Data analysis and visualization
 - 🌱 I’m currently learning NumPy and XML parsing
-- 👯 I’m looking to collaborate on any fun coding project
+- 👯👩🏻‍💻 I’m looking to collaborate on any fun coding project
 - 💬 Ask me about ...
 - 📫 Inbox me @ https://www.linkedin.com/in/nidhibiswas/ 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to design cool stuffs! 
+- ⚡ Fun fact: I love to design cool stuffs! ^-^
 -
 Thankyou for visiting! don't forget to play my mini game before you go ^-^ 👾. --> https://www.cs.ryerson.ca/~n6biswas/lab05.html
